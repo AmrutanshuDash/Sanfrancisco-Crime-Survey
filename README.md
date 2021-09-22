@@ -8,7 +8,7 @@ Comprehensive analysis and visualization of crimes of Sanfrancisco using Chlorop
 ![](https://img.shields.io/badge/pandas-1.2.3-150458?style=for-the-badge&logo=pandas)
 ![](https://img.shields.io/badge/Folium-0.11-77B829?style=for-the-badge&logo=Folium)
  
-<a href="https://github.com/Envoy-VC/awesome-clones/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Envoy-VC/awesome-clones" alt="License Badge"/></a>)
+<a href="https://github.com/Envoy-VC/awesome-clones/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Envoy-VC/awesome-clones" alt="License Badge"/></a>
 
 ## Introduction
 
